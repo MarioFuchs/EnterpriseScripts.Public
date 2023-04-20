@@ -1,4 +1,4 @@
-﻿$RemoteHost="vs061"
+﻿$RemoteHost="exchange.company.com"
 $Port=25
 
 function readResponse {
@@ -40,7 +40,7 @@ $encoding = new-object System.Text.AsciiEncoding
 readResponse($stream)
 
 Send-Command -Command "EHLO"
-Send-Command -Command "MAIL FROM:mario.fuchs@egos.co.at"
+Send-Command -Command "MAIL FROM:sender@company.com"
 Send-Command -Command "RCPT TO:test@test.com"
 Send-Command -Command "DATA"
 
