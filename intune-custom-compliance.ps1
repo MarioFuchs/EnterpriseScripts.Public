@@ -1,4 +1,4 @@
-﻿#https://learn.microsoft.com/en-us/mem/intune/protect/compliance-custom-json
+#https://learn.microsoft.com/en-us/mem/intune/protect/compliance-custom-json
 $ToCheck=@"
 {
 "Rules":[ 
@@ -7,7 +7,7 @@ $ToCheck=@"
        "Operator":"LessThan",
        "DataType":"Int64",
        "Operand":"50",
-       "MoreInfoUrl":"https://abc.com",
+       "MoreInfoUrl":"https://info.egos.co.at/desktop-compliance",
        "RemediationStrings":[ 
           { 
              "Language":"en_US",
