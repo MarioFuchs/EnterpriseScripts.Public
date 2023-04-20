@@ -11,3 +11,4 @@ Device Compliance Script to check free disk space on endpoint and set a complian
 >m365-guest-creator.ps1
 
 WPF Gui for Guest Creation
+![Screenshot](m365-guest-creator-screen1.png)
