@@ -13,6 +13,10 @@ Device Compliance Script to check free disk space on endpoint and set a complian
 WPF Gui for Guest Creation
 ![Screenshot](m365-guest-creator-screen1.png)
 
+### Teams Client Cache Cleanup Script
+>
+![Screenshot](m365-teams-cleaner.png)
+
 ## Exchange
 ### Fun with SMTP
 > smtp-fun.ps1
