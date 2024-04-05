@@ -14,7 +14,9 @@ WPF Gui for Guest Creation
 ![Screenshot](m365-guest-creator-screen1.png)
 
 ### Teams Client Cache Cleanup Script
->
+>Clear-TeamsCache.ps1
+
+Clear the teams cache of both (1.x, 2.x) client versions on Windows
 ![Screenshot](m365-teams-cleaner.png)
 
 ## Exchange
